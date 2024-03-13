@@ -6,9 +6,9 @@ LABEL "com.github.actions.description"="Send a message to the designated channel
 LABEL "com.github.actions.icon"="message-square"
 LABEL "com.github.actions.color"="purple"
 
-LABEL "repository"="http://github.com/aliencube/microsoft-teams-actions"
-LABEL "homepage"="http://github.com/aliencube"
-LABEL "maintainer"="Justin Yoo <no-reply@aliencube.com>"
+LABEL "repository"="https://github.com/freenet-actions/simple-microsoft-teams-action"
+LABEL "homepage"="https://github.com/freenet-actions"
+LABEL "maintainer"="Lea Reimann <lea.reimann@freenet.ag>"
 
 COPY *.sln .
 COPY src/ ./src/
