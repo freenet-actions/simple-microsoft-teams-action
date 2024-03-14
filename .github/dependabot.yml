@@ -3,3 +3,6 @@ updates:
   - package-ecosystem: "docker"
     target-branch: "dev"
     directory: "/"
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    target-branch: "dev"
